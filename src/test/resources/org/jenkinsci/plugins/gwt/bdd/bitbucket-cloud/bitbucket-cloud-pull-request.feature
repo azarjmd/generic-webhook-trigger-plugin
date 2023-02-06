@@ -1,6 +1,6 @@
 Feature: It should be possible to trigger for Bitbucket Cloud pull request events.
 
-  Scenario: Trigger a job when pull request is created or updated.
+  Scenario: Trigger a job when pull request is created or updateds.
 
     Given the following generic variables are configured:
       | variable           | expression                                     | expressionType  | defaultValue | regexpFilter  |
